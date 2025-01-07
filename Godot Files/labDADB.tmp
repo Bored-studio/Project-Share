@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://cg46neyo6vmt3"]
+
+[ext_resource type="Script" path="res://label.gd" id="1_2xse0"]
+
+[node name="Label" type="Label"]
+offset_left = -2.0
+offset_top = 3.0
+offset_right = 89.0
+offset_bottom = 26.0
+text = "Hello World"
+script = ExtResource("1_2xse0")

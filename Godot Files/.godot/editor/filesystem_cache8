@@ -1,0 +1,168 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1736241776
+character.gd::GDScript::-1::1733195726::0::1::::<>CharacterBody2D<>::
+Character.tscn::PackedScene::24479679506358012::1734245352::0::1::::<><>::res://character.gd<>uid://cimv6tq581kit::::res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_before_or_after_jump_srip_2.png<>uid://kl0eq4jncanv::::res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_jump_double_anim_strip_3.png<>uid://cvclwtn7oki7e::::res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_idle_anim_strip_4.png<>uid://cwc47fux4unnw::::res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_run_anim_strip_6.png<>uid://cfftw5gj76wi1::::res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_jump_down_anim_strip_3.png<>uid://d2cjtkp1gytmb::::res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_jump_up_anim_strip_3.png<>uid://dtja5j3nyp5sv::::res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_spritesheet(new).png
+export_presets.cfg::TextFile::-1::1732098052::0::1::::<><>::
+First_Level.tscn::PackedScene::3416353853076184898::1734245354::0::1::::<><>::uid://l4gak1vpwme::::res://Character.tscn<>uid://py70krjt543m::::res://platformer_metroidvania asset pack v1.01/tiles and background_foreground (new)/tileset.png<>uid://cpss4byg4mh5c::::res://Asset Pack/s4m_ur4i_huge-assetpack-tilemap.png<>uid://w0js2e7rtf26::::res://HUD.tscn<>uid://dl47dbf1pwp7k::::res://platformer_metroidvania asset pack v1.01/platformTool.tscn<>uid://b7hlvaq6l1pjl::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_middle.png<>uid://napa7aci0g4e::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_left.png<>uid://q3ce8ywg3pfm::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_right.png<>uid://b2locrhw5wfpk::::res://platformer_metroidvania asset pack v1.01/tiles and background_foreground (new)/Left.png
+HUD.tscn::PackedScene::1596344026900469489::1734245352::0::1::::<><>::uid://d3yi8nvqq7eyf::::res://platformer_metroidvania asset pack v1.01/hud elements/hearts_hud.png<>uid://cci5snvufjuj3::::res://platformer_metroidvania asset pack v1.01/hud elements/health_hud_left.png<>uid://bgkvtknwjm467::::res://platformer_metroidvania asset pack v1.01/hud elements/health_hud_middle.png<>uid://4ji335fqvsmc::::res://platformer_metroidvania asset pack v1.01/hud elements/health_hud_right.png
+icon.svg::CompressedTexture2D::7553770288298162624::1731919367::1731919382::1::::<><>::
+label.gd::GDScript::-1::1731937079::0::1::::<>Label<>::
+label.tscn::PackedScene::5255747074025722794::1734245352::0::1::::<><>::res://label.gd
+node_2d.tscn::PackedScene::8901313202804729704::1734245352::0::1::::<><>::uid://cg46neyo6vmt3::::res://label.tscn
+platform.gd::GDScript::-1::1732176822::0::1::::platform_maker<>Node2D<>::
+Platform.tscn::PackedScene::3826825884870727993::1732090988::0::1::::<><>::res://platform.gd<>uid://napa7aci0g4e::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_left.png<>uid://b7hlvaq6l1pjl::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_middle.png<>uid://q3ce8ywg3pfm::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_right.png
+playground.tscn::PackedScene::145115589587517816::1733194831::0::1::::<><>::uid://l4gak1vpwme::::res://Character.tscn<>uid://dg8e8u4ju1b78::::res://Zihaowa.png<>uid://py70krjt543m::::res://platformer_metroidvania asset pack v1.01/tiles and background_foreground (new)/tileset.png<>uid://cpss4byg4mh5c::::res://Asset Pack/s4m_ur4i_huge-assetpack-tilemap.png<>uid://napa7aci0g4e::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_left.png<>uid://w0js2e7rtf26::::res://HUD.tscn<>uid://b7hlvaq6l1pjl::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_middle.png<>uid://q3ce8ywg3pfm::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_right.png<>uid://dl47dbf1pwp7k::::res://platformer_metroidvania asset pack v1.01/platformTool.tscn<>uid://b2locrhw5wfpk::::res://platformer_metroidvania asset pack v1.01/tiles and background_foreground (new)/Left.png
+README.md::TextFile::-1::1734245658::0::1::::<><>::
+Zihaowa.png::CompressedTexture2D::7648822473664398165::1731931471::1731931471::1::::<><>::
+::res://Asset Pack/::1734245731
+color-palette.png::CompressedTexture2D::1128293081697571349::1732076791::1732076791::1::::<><>::
+s4m_ur4i_huge-assetpack-animals.png::CompressedTexture2D::1798887825246979196::1732076791::1732076791::1::::<><>::
+s4m_ur4i_huge-assetpack-character-animations.png::CompressedTexture2D::3245294757880221179::1732076791::1732076791::1::::<><>::
+s4m_ur4i_huge-assetpack-characters.png::CompressedTexture2D::2467425240599333783::1732076791::1732076791::1::::<><>::
+s4m_ur4i_huge-assetpack-drones.png::CompressedTexture2D::3252733384616979455::1732076791::1732076791::1::::<><>::
+s4m_ur4i_huge-assetpack-enemies-animations.png::CompressedTexture2D::227156499839014423::1732076791::1732076791::1::::<><>::
+s4m_ur4i_huge-assetpack-enemies.png::CompressedTexture2D::384497505987789623::1732076791::1732076791::1::::<><>::
+s4m_ur4i_huge-assetpack-intro.png::CompressedTexture2D::5480109873557537513::1732076791::1732076791::1::::<><>::
+s4m_ur4i_huge-assetpack-tilemap.png::CompressedTexture2D::5863977605333305354::1732076686::1732076698::1::::<><>::
+s4m_ur4i_huge-assetpack-ui-portraits.png::CompressedTexture2D::8505356996285138367::1732076791::1732076791::1::::<><>::
+s4m_ur4i_huge-assetpack-ui.png::CompressedTexture2D::982137570074270239::1732076791::1732076792::1::::<><>::
+s4m_ur4i_huge-ui-portrait-item.png::CompressedTexture2D::6573070986123697942::1732076791::1732076791::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/::1734245719
+platformTool.tscn::PackedScene::7993154648565255846::1734245353::0::1::::<><>::res://platform.gd<>uid://napa7aci0g4e::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_left.png<>uid://b7hlvaq6l1pjl::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_middle.png<>uid://q3ce8ywg3pfm::::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_right.png
+README.txt::TextFile::-1::1732077107::0::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/enemies sprites/::1734245716
+::res://platformer_metroidvania asset pack v1.01/enemies sprites/bomber goblin/::1734245715
+bomber_goblin_attack_anim_strip_6.png::CompressedTexture2D::2949087843325726499::1732077084::1732077120::1::::<><>::
+bomber_goblin_death_anim_strip_6.png::CompressedTexture2D::7705072862093731200::1732077084::1732077120::1::::<><>::
+bomber_goblin_hit_anim_strip_3.png::CompressedTexture2D::1466525177231011560::1732077084::1732077120::1::::<><>::
+bomber_goblin_idle_anim_strip_4.png::CompressedTexture2D::5286744930432184458::1732077084::1732077120::1::::<><>::
+goblin_bomber_spritesheet.png::CompressedTexture2D::44541584704314051::1732077084::1732077120::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/enemies sprites/fly/::1734245715
+blue_fly_attack_anim_srip_3.png::CompressedTexture2D::3812879363283777319::1732077084::1732077120::1::::<><>::
+blue_fly_death_anim_strip_5.png::CompressedTexture2D::8914514834354998670::1732077084::1732077120::1::::<><>::
+blue_fly_hit_anim_strip_3.png::CompressedTexture2D::8138021889672598316::1732077084::1732077120::1::::<><>::
+blue_fly_idle_or_flying_anim_strip_3.png::CompressedTexture2D::2376349354516786972::1732077084::1732077120::1::::<><>::
+fly_spritesheet.png::CompressedTexture2D::2360602374113777796::1732077084::1732077120::1::::<><>::
+orange_fly_atack_anim_srip_3.png::CompressedTexture2D::4780790911240724664::1732077084::1732077120::1::::<><>::
+orange_fly_death_anim_strip_5.png::CompressedTexture2D::4957314989173417340::1732077084::1732077120::1::::<><>::
+orange_fly_hit_anim_strip_3.png::CompressedTexture2D::1848045250336499453::1732077084::1732077120::1::::<><>::
+orange_fly_idle_or_flying_anim_strip_3.png::CompressedTexture2D::7297267308635352424::1732077084::1732077120::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/enemies sprites/goblin/::1734245716
+goblin_attack_anim_strip_4.png::CompressedTexture2D::6166070943502281242::1732077084::1732077120::1::::<><>::
+goblin_death_anim_strip_6.png::CompressedTexture2D::6071156397580675872::1732077084::1732077120::1::::<><>::
+goblin_hit_anim_strip_3.png::CompressedTexture2D::5006684531917403164::1732077084::1732077120::1::::<><>::
+goblin_idle_anim_strip_4.png::CompressedTexture2D::5834666950501952577::1732077084::1732077120::1::::<><>::
+goblin_run_anim_strip_6.png::CompressedTexture2D::5952717578268761274::1732077084::1732077120::1::::<><>::
+goblin_spritesheet.png::CompressedTexture2D::9170745801662199215::1732077084::1732077120::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/enemies sprites/mushroom/::1734245716
+mushroom_crushed_anim_strip_6.png::CompressedTexture2D::5654907486875797280::1732077084::1732077120::1::::<><>::
+mushroom_death_anim_strip_6.png::CompressedTexture2D::893192210227535472::1732077084::1732077120::1::::<><>::
+mushroom_hit_anim_strip_3.png::CompressedTexture2D::6828720010079807567::1732077084::1732077120::1::::<><>::
+mushroom_spritesheet.png::CompressedTexture2D::8489057670483606813::1732077084::1732077120::1::::<><>::
+mushroom_walk_anim_strip_8.png::CompressedTexture2D::3222635397546634628::1732077084::1732077120::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/enemies sprites/slime/::1734245716
+slime_death_anim_strip_6.png::CompressedTexture2D::4653861607206675472::1732077084::1732077120::1::::<><>::
+slime_hit_anim_strip_3.png::CompressedTexture2D::914345195841113471::1732077084::1732077120::1::::<><>::
+slime_idle_anim_strip_5.png::CompressedTexture2D::7027063143085943088::1732077084::1732077120::1::::<><>::
+slime_spritesheet.png::CompressedTexture2D::5304040503757108475::1732077084::1732077120::1::::<><>::
+slime_walk_anim_strip_15.png::CompressedTexture2D::158226985042516991::1732077084::1732077120::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/enemies sprites/worm/::1734245716
+worm_death_anim_strip_6.png::CompressedTexture2D::6182460951723650836::1732077084::1732077120::1::::<><>::
+worm_hit_anim_strip_3.png::CompressedTexture2D::3278924732703538568::1732077084::1732077121::1::::<><>::
+worm_spritesheet.png::CompressedTexture2D::7639232003369193652::1732077084::1732077121::1::::<><>::
+worm_walk_anim_strip_6.png::CompressedTexture2D::415151715358292160::1732077084::1732077121::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/fauna sprites/::1734245716
+bird_flying_anim_strip_3.png::CompressedTexture2D::611985926837727379::1732077084::1732077121::1::::<><>::
+bird_idle_anim_strip_8.png::CompressedTexture2D::2842919873580069889::1732077084::1732077121::1::::<><>::
+bird_walk_anim_strip_3.png::CompressedTexture2D::4994020974645022965::1732077084::1732077121::1::::<><>::
+fauna_spritesheet.png::CompressedTexture2D::3631393112391107155::1732077084::1732077121::1::::<><>::
+rabit_idle_anim_strip_4.png::CompressedTexture2D::1625737350437240219::1732077084::1732077121::1::::<><>::
+rabit_walk_anim_strip_6.png::CompressedTexture2D::5419560676338638103::1732077084::1732077121::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/::1734245717
+herochar_after_jump_dust_anim_strip_4.png::CompressedTexture2D::946937644322432586::1732077084::1732077121::1::::<><>::
+herochar_attack_anim_strip_4(new).png::CompressedTexture2D::8041102340794544087::1732077105::1732077121::1::::<><>::
+herochar_before_jump_dust_anim_strip_4.png::CompressedTexture2D::1479730918932146053::1732077105::1732077121::1::::<><>::
+herochar_before_or_after_jump_srip_2.png::CompressedTexture2D::5360456090067044971::1732077105::1732077121::1::::<><>::
+herochar_death_anim_strip_8.png::CompressedTexture2D::7610812252929413797::1732077105::1732077121::1::::<><>::
+herochar_hit_anim_strip_3.png::CompressedTexture2D::8096598007866234076::1732077105::1732077121::1::::<><>::
+herochar_idle_anim_strip_4.png::CompressedTexture2D::6251644033178496340::1732077105::1732077121::1::::<><>::
+herochar_jump_double_anim_strip_3.png::CompressedTexture2D::726122545269063183::1732077105::1732077121::1::::<><>::
+herochar_jump_down_anim_strip_3.png::CompressedTexture2D::5135301970097389978::1732077105::1732077121::1::::<><>::
+herochar_jump_up_anim_strip_3.png::CompressedTexture2D::9059070517429260677::1732077105::1732077121::1::::<><>::
+herochar_pushing_foward_anim_strip_6.png::CompressedTexture2D::4441191805538625731::1732077105::1732077121::1::::<><>::
+herochar_run_anim_strip_6.png::CompressedTexture2D::6322942915723627348::1732077106::1732077121::1::::<><>::
+herochar_spritesheet(new).png::CompressedTexture2D::8511483570393635721::1732077106::1732077121::1::::<><>::
+herochar_sword_attack_anim_strip_4.png::CompressedTexture2D::9030508820534969973::1732077106::1732077121::1::::<><>::
+hit_sparkle_anim_strip_4.png::CompressedTexture2D::1558767039172285769::1732077106::1732077121::1::::<><>::
+sword_effect_strip_4(new).png::CompressedTexture2D::400909593724122552::1732077106::1732077121::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/hud elements/::1734245717
+coins_hud.png::CompressedTexture2D::638141932301269427::1732077106::1732077121::1::::<><>::
+fonts.png::CompressedTexture2D::7477346661524867741::1732077106::1732077121::1::::<><>::
+health_hud_left.png::CompressedTexture2D::4931588446928239094::1732077106::1732077120::1::::<><>::
+health_hud_middle.png::CompressedTexture2D::2829507056322253346::1732077106::1732077120::1::::<><>::
+health_hud_right.png::CompressedTexture2D::2054593120708287530::1732077106::1732077120::1::::<><>::
+health_menu_hud.png::CompressedTexture2D::5373429540027450954::1732077106::1732077120::1::::<><>::
+hearts_hud.png::CompressedTexture2D::9174640122176693765::1732077106::1732077120::1::::<><>::
+lifes_icon.png::CompressedTexture2D::8488289254038337692::1732077106::1732077120::1::::<><>::
+lost_hearts_anim_strip_5.png::CompressedTexture2D::2459021319570155836::1732077106::1732077120::1::::<><>::
+no_hearts_hud.png::CompressedTexture2D::6117295480863604261::1732077106::1732077120::1::::<><>::
+orbs_hud.png::CompressedTexture2D::635343946558832102::1732077106::1732077120::1::::<><>::
+select_icon_anim_strip_5.png::CompressedTexture2D::5249688729568836573::1732077106::1732077120::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/::1734245719
+antidote_potion.png::CompressedTexture2D::797126746503259812::1732077106::1732077120::1::::<><>::
+apple_item.png::CompressedTexture2D::9137206221869187911::1732077106::1732077120::1::::<><>::
+arrow_plate_left.png::CompressedTexture2D::8267818190157166117::1732077106::1732077120::1::::<><>::
+arrow_plate_right.png::CompressedTexture2D::7224006021460587332::1732077106::1732077120::1::::<><>::
+bigflowers_props.png::CompressedTexture2D::8558157329546415470::1732077106::1732077120::1::::<><>::
+bomb_on_ground_anim_strip_8.png::CompressedTexture2D::5474341798629238101::1732077106::1732077120::1::::<><>::
+bomb_thrown_anim_strip_3.png::CompressedTexture2D::1674587339660828061::1732077106::1732077120::1::::<><>::
+buttom.png::CompressedTexture2D::5366024840911043531::1732077106::1732077120::1::::<><>::
+buttom_pressed.png::CompressedTexture2D::2009311129764544688::1732077106::1732077120::1::::<><>::
+coin_anim_strip_6.png::CompressedTexture2D::6292022231201327626::1732077106::1732077120::1::::<><>::
+coin_pickup_anim_strip_6.png::CompressedTexture2D::7761558309728359644::1732077106::1732077120::1::::<><>::
+door.png::CompressedTexture2D::3718495117398616279::1732077106::1732077120::1::::<><>::
+drygrass_props.png::CompressedTexture2D::4263956833666229913::1732077106::1732077120::1::::<><>::
+explosion_anim_strip_10.png::CompressedTexture2D::4805711242655117733::1732077106::1732077120::1::::<><>::
+flowers_props.png::CompressedTexture2D::2582627556297764296::1732077106::1732077120::1::::<><>::
+grass_props.png::CompressedTexture2D::8156136312662032232::1732077106::1732077120::1::::<><>::
+health_potion.png::CompressedTexture2D::9143552146579508842::1732077106::1732077120::1::::<><>::
+lever_turned_left.png::CompressedTexture2D::4760249650503993852::1732077106::1732077120::1::::<><>::
+lever_turned_right.png::CompressedTexture2D::110439298340717050::1732077106::1732077120::1::::<><>::
+loot_box_anim_opening_strip_6.png::CompressedTexture2D::7402237869271906609::1732077106::1732077120::1::::<><>::
+loot_box_anim_strip_12.png::CompressedTexture2D::2728535646073697766::1732077106::1732077120::1::::<><>::
+loot_box_open.png::CompressedTexture2D::8683220286264437350::1732077107::1732077120::1::::<><>::
+meat_item.png::CompressedTexture2D::2263357043394260775::1732077107::1732077120::1::::<><>::
+orb.png::CompressedTexture2D::1565641790293734043::1732077107::1732077120::1::::<><>::
+orb_anim_strip_6.png::CompressedTexture2D::656762224249658732::1732077107::1732077120::1::::<><>::
+orb_collected_anim_strip_5.png::CompressedTexture2D::7882299762394924252::1732077107::1732077120::1::::<><>::
+root_props.png::CompressedTexture2D::2390332833111866483::1732077107::1732077120::1::::<><>::
+save_point_anim_strip_9.png::CompressedTexture2D::2618769064006881822::1732077107::1732077120::1::::<><>::
+save_point_saving_anim_strip_3.png::CompressedTexture2D::4185485778176056801::1732077107::1732077120::1::::<><>::
+spikes.png::CompressedTexture2D::4281434172413361457::1732077107::1732077120::1::::<><>::
+spikes_trap.png::CompressedTexture2D::2962260636288996658::1732077107::1732077120::1::::<><>::
+spikes_trap_hit_wall_dust_effect_strip_3.png::CompressedTexture2D::5288332516349884951::1732077107::1732077120::1::::<><>::
+stone.png::CompressedTexture2D::8293227185481814477::1732077107::1732077120::1::::<><>::
+strange_door_closed_anim_strip_10.png::CompressedTexture2D::3153963696415830618::1732077107::1732077120::1::::<><>::
+strange_door_opening_anim_strip_14.png::CompressedTexture2D::675751102489563473::1732077107::1732077120::1::::<><>::
+tiki_torch_props_strip_12.png::CompressedTexture2D::6666130488352938144::1732077107::1732077120::1::::<><>::
+trap_spikes_anim_strip_7.png::CompressedTexture2D::8145717252945685184::1732077107::1732077120::1::::<><>::
+trap_suspended_anim_strip_18.png::CompressedTexture2D::1813542173544009882::1732077107::1732077120::1::::<><>::
+vase.png::CompressedTexture2D::7339776350177064289::1732077107::1732077120::1::::<><>::
+vase_breaking_anim_strip_5.png::CompressedTexture2D::2629910351549581527::1732077107::1732077120::1::::<><>::
+wooden_plate.png::CompressedTexture2D::8304920491025079489::1732077107::1732077120::1::::<><>::
+wood_slab_left.png::CompressedTexture2D::913367403035674622::1732077107::1732077120::1::::<><>::
+wood_slab_middle.png::CompressedTexture2D::4647619739122097753::1732077107::1732077120::1::::<><>::
+wood_slab_right.png::CompressedTexture2D::1180954423837920498::1732077107::1732077120::1::::<><>::
+::res://platformer_metroidvania asset pack v1.01/tiles and background_foreground (new)/::1734245719
+background.png::CompressedTexture2D::3605241888684855087::1732077107::1732077120::1::::<><>::
+bg_0.png::CompressedTexture2D::3164355877602261471::1732077107::1732077120::1::::<><>::
+bg_1.png::CompressedTexture2D::5263151462109872453::1732077107::1732077120::1::::<><>::
+bg_2.png::CompressedTexture2D::6604258377575945283::1732077107::1732077120::1::::<><>::
+fg_0.png::CompressedTexture2D::3505900688065830381::1732077107::1732077120::1::::<><>::
+fg_1.png::CompressedTexture2D::1947627356983603225::1732077107::1732077120::1::::<><>::
+Left.png::CompressedTexture2D::4305082131452297004::1732522916::1732522917::1::::<><>::
+tileset.png::CompressedTexture2D::1104365861214768952::1732077107::1732077120::1::::<><>::
+tileset_32x32(new).png::CompressedTexture2D::246282695540041387::1732077107::1732077120::1::::<><>::
+tileset_64x64(new).png::CompressedTexture2D::4503972986039698519::1732077107::1732077120::1::::<><>::
+waterfall_anim_strip_4.png::CompressedTexture2D::4100828698881395333::1732077107::1732077120::1::::<><>::
+waterfall_bottom_anim_strip_4.png::CompressedTexture2D::6878918496792687612::1732077107::1732077120::1::::<><>::

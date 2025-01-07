@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://c0wbrv0cffh1o"
+path="res://.godot/imported/s4m_ur4i_huge-ui-portrait-item.png-26d1a509ac1589b270accb6b88468e27.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Asset Pack/s4m_ur4i_huge-ui-portrait-item.png"
+dest_files=["res://.godot/imported/s4m_ur4i_huge-ui-portrait-item.png-26d1a509ac1589b270accb6b88468e27.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

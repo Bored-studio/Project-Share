@@ -1,0 +1,117 @@
+[gd_scene load_steps=5 format=3 uid="uid://w0js2e7rtf26"]
+
+[ext_resource type="Texture2D" uid="uid://d3yi8nvqq7eyf" path="res://platformer_metroidvania asset pack v1.01/hud elements/hearts_hud.png" id="1_01og3"]
+[ext_resource type="Texture2D" uid="uid://cci5snvufjuj3" path="res://platformer_metroidvania asset pack v1.01/hud elements/health_hud_left.png" id="2_30u0i"]
+[ext_resource type="Texture2D" uid="uid://bgkvtknwjm467" path="res://platformer_metroidvania asset pack v1.01/hud elements/health_hud_middle.png" id="3_o2guy"]
+[ext_resource type="Texture2D" uid="uid://4ji335fqvsmc" path="res://platformer_metroidvania asset pack v1.01/hud elements/health_hud_right.png" id="4_0gfcf"]
+
+[node name="CanvasLayer" type="CanvasLayer"]
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Control"]
+layout_mode = 0
+offset_right = 160.0
+offset_bottom = 42.0
+theme_override_constants/separation = 0
+
+[node name="Panel" type="Panel" parent="Control/HBoxContainer"]
+clip_contents = true
+custom_minimum_size = Vector2(40, 42)
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Control/HBoxContainer/Panel"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("2_30u0i")
+
+[node name="Panel2" type="Panel" parent="Control/HBoxContainer"]
+clip_contents = true
+custom_minimum_size = Vector2(40, 42)
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Control/HBoxContainer/Panel2"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("3_o2guy")
+
+[node name="Panel3" type="Panel" parent="Control/HBoxContainer"]
+clip_contents = true
+custom_minimum_size = Vector2(40, 42)
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Control/HBoxContainer/Panel3"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("3_o2guy")
+
+[node name="Panel4" type="Panel" parent="Control/HBoxContainer"]
+clip_contents = true
+custom_minimum_size = Vector2(40, 42)
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Control/HBoxContainer/Panel4"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+texture = ExtResource("4_0gfcf")
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="Control"]
+layout_mode = 0
+offset_left = 8.0
+offset_top = 8.0
+offset_right = 152.0
+offset_bottom = 32.0
+theme_override_constants/separation = 21
+metadata/_edit_group_ = true
+
+[node name="Panel" type="Panel" parent="Control/HBoxContainer2"]
+clip_contents = true
+custom_minimum_size = Vector2(20, 20)
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Control/HBoxContainer2/Panel"]
+layout_mode = 0
+offset_right = 20.0
+offset_bottom = 20.0
+texture = ExtResource("1_01og3")
+
+[node name="Panel2" type="Panel" parent="Control/HBoxContainer2"]
+clip_contents = true
+custom_minimum_size = Vector2(20, 20)
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Control/HBoxContainer2/Panel2"]
+layout_mode = 0
+offset_right = 20.0
+offset_bottom = 20.0
+texture = ExtResource("1_01og3")
+
+[node name="Panel3" type="Panel" parent="Control/HBoxContainer2"]
+clip_contents = true
+custom_minimum_size = Vector2(20, 20)
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Control/HBoxContainer2/Panel3"]
+layout_mode = 0
+offset_right = 20.0
+offset_bottom = 20.0
+texture = ExtResource("1_01og3")
+
+[node name="Panel4" type="Panel" parent="Control/HBoxContainer2"]
+clip_contents = true
+custom_minimum_size = Vector2(20, 20)
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Control/HBoxContainer2/Panel4"]
+layout_mode = 0
+offset_right = 20.0
+offset_bottom = 20.0
+texture = ExtResource("1_01og3")

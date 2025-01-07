@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=3 uid="uid://dy24lfd3e4lka"]
+
+[ext_resource type="PackedScene" uid="uid://cg46neyo6vmt3" path="res://label.tscn" id="1_ibepr"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Label" parent="." instance=ExtResource("1_ibepr")]
+offset_left = 500.0
+offset_top = 303.0
+offset_right = 591.0
+offset_bottom = 326.0
+
+[node name="Timer" type="Timer" parent="Label"]
+autostart = true
+
+[node name="Button" type="Button" parent="."]
+offset_left = 920.0
+offset_top = 531.0
+offset_right = 1152.0
+offset_bottom = 648.0
+text = "Toggle Motion"
+
+[connection signal="pressed" from="Button" to="Label" method="_on_button_pressed"]

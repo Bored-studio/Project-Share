@@ -1,0 +1,19 @@
+[gd_scene load_steps=6 format=3 uid="uid://bur0i7jrdr8mf"]
+
+[ext_resource type="Script" path="res://platform.gd" id="1_fx1hl"]
+[ext_resource type="Texture2D" uid="uid://napa7aci0g4e" path="res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_left.png" id="1_mj477"]
+[ext_resource type="Texture2D" uid="uid://b7hlvaq6l1pjl" path="res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_middle.png" id="3_6wir5"]
+[ext_resource type="Texture2D" uid="uid://q3ce8ywg3pfm" path="res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_right.png" id="4_m8jdb"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3vsll"]
+
+[node name="Platform" type="StaticBody2D"]
+script = ExtResource("1_fx1hl")
+length = 6
+firstSprite = ExtResource("1_mj477")
+middleSprites = Array[Texture2D]([ExtResource("3_6wir5")])
+lastSprite = ExtResource("4_m8jdb")
+spriteHeight = 8
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_3vsll")
