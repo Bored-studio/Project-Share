@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dtgb8tchl6e2r"
-path="res://.godot/imported/s4m_ur4i_huge-assetpack-ui-portraits.png-7cb3f75e8db26cf9f39f87b7e94f0d47.ctex"
+uid="uid://bmlwbqoholknf"
+path="res://.godot/imported/s4m_ur4i_huge-assetpack-drones.png-c4f2d1e2f6660b638a4113d7044749cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset Pack/s4m_ur4i_huge-assetpack-ui-portraits.png"
-dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-ui-portraits.png-7cb3f75e8db26cf9f39f87b7e94f0d47.ctex"]
+source_file="res://Asset Pack 1/s4m_ur4i_huge-assetpack-drones.png"
+dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-drones.png-c4f2d1e2f6660b638a4113d7044749cc.ctex"]
 
 [params]
 

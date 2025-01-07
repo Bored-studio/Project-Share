@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c0wbrv0cffh1o"
-path="res://.godot/imported/s4m_ur4i_huge-ui-portrait-item.png-26d1a509ac1589b270accb6b88468e27.ctex"
+uid="uid://fqivad7wud4r"
+path="res://.godot/imported/s4m_ur4i_huge-assetpack-enemies.png-83fe18361bcfeb79318ece3be3472de2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset Pack/s4m_ur4i_huge-ui-portrait-item.png"
-dest_files=["res://.godot/imported/s4m_ur4i_huge-ui-portrait-item.png-26d1a509ac1589b270accb6b88468e27.ctex"]
+source_file="res://Asset Pack 1/s4m_ur4i_huge-assetpack-enemies.png"
+dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-enemies.png-83fe18361bcfeb79318ece3be3472de2.ctex"]
 
 [params]
 

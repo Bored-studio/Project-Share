@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cpss4byg4mh5c"
-path="res://.godot/imported/s4m_ur4i_huge-assetpack-tilemap.png-dfaa105e3aebef0af74f06ecaaf4c383.ctex"
+uid="uid://bmibsbjrmeltj"
+path="res://.godot/imported/s4m_ur4i_huge-assetpack-character-animations.png-3cc9ff91e1c16677c6929efb9a1675f5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset Pack/s4m_ur4i_huge-assetpack-tilemap.png"
-dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-tilemap.png-dfaa105e3aebef0af74f06ecaaf4c383.ctex"]
+source_file="res://Asset Pack 1/s4m_ur4i_huge-assetpack-character-animations.png"
+dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-character-animations.png-3cc9ff91e1c16677c6929efb9a1675f5.ctex"]
 
 [params]
 

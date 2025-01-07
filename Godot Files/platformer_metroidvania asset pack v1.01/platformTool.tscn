@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://dl47dbf1pwp7k"]
 
-[ext_resource type="Script" path="res://platform.gd" id="1_6if5t"]
+[ext_resource type="Script" path="res://Scripts/platform.gd" id="1_6if5t"]
 [ext_resource type="Texture2D" uid="uid://napa7aci0g4e" path="res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_left.png" id="2_rjnjs"]
 [ext_resource type="Texture2D" uid="uid://b7hlvaq6l1pjl" path="res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_middle.png" id="3_q68i5"]
 [ext_resource type="Texture2D" uid="uid://q3ce8ywg3pfm" path="res://platformer_metroidvania asset pack v1.01/miscellaneous sprites/wood_slab_right.png" id="4_ppopm"]

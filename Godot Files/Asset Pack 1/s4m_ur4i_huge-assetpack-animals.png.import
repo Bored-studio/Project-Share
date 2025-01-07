@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://fqivad7wud4r"
-path="res://.godot/imported/s4m_ur4i_huge-assetpack-enemies.png-57dad07f543f321db9ac77e3a1d38399.ctex"
+uid="uid://0vnojemeiyeu"
+path="res://.godot/imported/s4m_ur4i_huge-assetpack-animals.png-b7d3e6483106a164e8b21cf16d039402.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset Pack/s4m_ur4i_huge-assetpack-enemies.png"
-dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-enemies.png-57dad07f543f321db9ac77e3a1d38399.ctex"]
+source_file="res://Asset Pack 1/s4m_ur4i_huge-assetpack-animals.png"
+dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-animals.png-b7d3e6483106a164e8b21cf16d039402.ctex"]
 
 [params]
 

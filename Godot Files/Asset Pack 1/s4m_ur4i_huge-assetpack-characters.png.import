@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://qcs27qewmo2h"
-path="res://.godot/imported/color-palette.png-7523d978ad9a3c9ccd31fe0fdec17ff7.ctex"
+uid="uid://bbfier88d7ocl"
+path="res://.godot/imported/s4m_ur4i_huge-assetpack-characters.png-011405c55a76edfc0a6d37035dae4429.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset Pack/color-palette.png"
-dest_files=["res://.godot/imported/color-palette.png-7523d978ad9a3c9ccd31fe0fdec17ff7.ctex"]
+source_file="res://Asset Pack 1/s4m_ur4i_huge-assetpack-characters.png"
+dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-characters.png-011405c55a76edfc0a6d37035dae4429.ctex"]
 
 [params]
 

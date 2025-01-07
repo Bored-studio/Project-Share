@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bmibsbjrmeltj"
-path="res://.godot/imported/s4m_ur4i_huge-assetpack-character-animations.png-4ada818ef996206bd5e3ecc643eab2b2.ctex"
+uid="uid://n80wrur87grv"
+path="res://.godot/imported/s4m_ur4i_huge-assetpack-ui.png-5909a0bdd4130218c08019cd3b9d0342.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Asset Pack/s4m_ur4i_huge-assetpack-character-animations.png"
-dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-character-animations.png-4ada818ef996206bd5e3ecc643eab2b2.ctex"]
+source_file="res://Asset Pack 1/s4m_ur4i_huge-assetpack-ui.png"
+dest_files=["res://.godot/imported/s4m_ur4i_huge-assetpack-ui.png-5909a0bdd4130218c08019cd3b9d0342.ctex"]
 
 [params]
 
