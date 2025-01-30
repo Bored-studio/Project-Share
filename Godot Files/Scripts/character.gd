@@ -1,10 +1,11 @@
 extends CharacterBody2D
 
-@export var SPEED = 300.0
-@export var JUMP_VELOCITY = -200.0
-@export var JUMP_COUNT = 1
+@export var SPEED = 250.0 # movement speed
+@export var JUMP_VELOCITY = -200.0 # Jump velocity up
+@export var JUMP_COUNT = 0 # Number of mid air jumps
 @export var DASH_SPEED = 1000.0
 @export var GRAB_SPEED = 5
+@export var sensitivity = 1600 # Higher = more sensitive and faster responses
 
 var usedJumps = 0
 var startJump = -1
@@ -46,6 +47,8 @@ func _physics_process(delta: float) -> void:
 		velocity += get_gravity() * delta
 	else: 
 		usedJumps = 0
+		if velocity.x < 0:
+			print(velocity.x)
 
 	if onWall:
 		velocity.y = 0
@@ -55,15 +58,16 @@ func _physics_process(delta: float) -> void:
 	var upDown := Input.get_axis("Up", "Down")
 	if onWall:
 		velocity.y = upDown * SPEED
+	
 	# Get the input direction and handle the movement/deceleration.
 	var direction := Input.get_axis("Move_Left", "Move_Right")
 	if (direction != 0):
 		if direction < 0: facing = -1
 		else: facing = 1
 	if direction:
-		velocity.x = direction * SPEED
+		velocity.x = move_toward(velocity.x, direction * SPEED, delta * sensitivity)
 	else:
-		velocity.x = move_toward(velocity.x, 0, SPEED)
+		velocity.x = move_toward(velocity.x, 0, delta * sensitivity)
 
 	# Handle jump.		
 	if Input.is_action_just_pressed("Jump") and (is_on_floor() or usedJumps < JUMP_COUNT) and not Input.is_action_pressed("Down"):
