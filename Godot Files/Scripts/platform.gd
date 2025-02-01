@@ -5,7 +5,7 @@ extends Node2D
 @export var length:int: 
 	set(value): 
 		length = value
-		print("val changed")
+		# print("val changed")
 		updateLen(value)
 var children:Array[Node2D]
 @export var firstSprite:Texture2D

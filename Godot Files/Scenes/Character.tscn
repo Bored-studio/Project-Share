@@ -1,4 +1,4 @@
-[gd_scene load_steps=34 format=3 uid="uid://l4gak1vpwme"]
+[gd_scene load_steps=36 format=3 uid="uid://l4gak1vpwme"]
 
 [ext_resource type="Script" path="res://Scripts/character.gd" id="1_0bdw5"]
 [ext_resource type="Texture2D" uid="uid://cimv6tq581kit" path="res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_before_or_after_jump_srip_2.png" id="2_db0vb"]
@@ -8,9 +8,10 @@
 [ext_resource type="Texture2D" uid="uid://cfftw5gj76wi1" path="res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_jump_down_anim_strip_3.png" id="4_2otpe"]
 [ext_resource type="Texture2D" uid="uid://d2cjtkp1gytmb" path="res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_jump_up_anim_strip_3.png" id="5_jdcvw"]
 [ext_resource type="Texture2D" uid="uid://dtja5j3nyp5sv" path="res://platformer_metroidvania asset pack v1.01/herochar sprites(new)/herochar_spritesheet(new).png" id="8_suubi"]
+[ext_resource type="Script" path="res://Scenes/area_2d.gd" id="9_ereou"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_uxvq4"]
-size = Vector2(22, 32)
+size = Vector2(21, 30)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_hhfk6"]
 atlas = ExtResource("2_db0vb")
@@ -211,13 +212,16 @@ animations = [{
 "speed": 4.0
 }]
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_y6et8"]
+size = Vector2(10, 2)
+
 [node name="Player" type="CharacterBody2D"]
 z_index = 5
 collision_mask = 15
 script = ExtResource("1_0bdw5")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(-1, -16)
+position = Vector2(-0.5, -15)
 shape = SubResource("RectangleShape2D_uxvq4")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
@@ -226,3 +230,12 @@ scale = Vector2(2, 2)
 sprite_frames = SubResource("SpriteFrames_d30a5")
 animation = &"wall"
 frame_progress = 0.446732
+
+[node name="Area2D" type="Area2D" parent="."]
+script = ExtResource("9_ereou")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(15, -13)
+shape = SubResource("RectangleShape2D_y6et8")
+
+[node name="Sprite2D" type="Sprite2D" parent="Area2D"]
